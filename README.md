@@ -86,7 +86,7 @@
 
 | 👤 Sai Shashank Vakkalanka |
 |----------------|
-| 📧 shashankhb@email.com |
+| 📧 saishashank1006@gmail.com |
 | 🌐 [Portfolio](https://your-portfolio-link.com) |
 | 🔗 [LinkedIn](www.linkedin.com/in/vakkalanka-sai-shashank) |
 | 🐱 [GitHub](https://github.com/SaiShashank-10) |
