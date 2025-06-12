@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Complete-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Ongoing-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Responsive-Yes-3498db?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Built%20with-Figma-e44d26?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
