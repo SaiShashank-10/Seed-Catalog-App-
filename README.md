@@ -31,7 +31,7 @@
 
 | Tech            | Description                                     |
 |-----------------|-------------------------------------------------|
-<center>| ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white) | Markup structure | </center>
+| ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white) | Markup structure |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)   | Custom styling with glassmorphism |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black) | For interactive button logic |
 | ![Figma](https://img.shields.io/badge/Figma-0acf83?style=flat&logo=figma&logoColor=white) | Embedded prototype |
