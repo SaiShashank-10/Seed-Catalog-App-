@@ -15,7 +15,7 @@
 
 ## 🌍 Live Demo
 
-> 💻 [Click here to view the Live Site](https://yourusername.github.io/seed-catalog-figma-viewer/)
+> 💻 [Click here to view the Live Site](https://seed-catalog-app.netlify.app/)
 
 ---
 
@@ -54,8 +54,6 @@
 📁 seed-catalog-figma-viewer/
 ├── index.html          # Main HTML file with embed
 ├── README.md           # Project documentation (this file)
-├── assets/             # Folder for screenshots/images (optional)
-└── style.css           # (If using external CSS)
 ```
 
 ---
@@ -86,12 +84,12 @@
 
 ## 👤 Author
 
-| 👤 Sai Shashank |
+| 👤 Sai Shashank Vakkalanka |
 |----------------|
 | 📧 shashankhb@email.com |
 | 🌐 [Portfolio](https://your-portfolio-link.com) |
-| 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) |
-| 🐱 [GitHub](https://github.com/yourusername) |
+| 🔗 [LinkedIn](www.linkedin.com/in/vakkalanka-sai-shashank) |
+| 🐱 [GitHub](https://github.com/SaiShashank-10) |
 
 ---
 
@@ -109,5 +107,5 @@ This project is under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Made with ❤️ by <b>Shashank HB</b>
+  Made with ❤️ by <b>Sai Shashank Vakkalanka</b>
 </p>
