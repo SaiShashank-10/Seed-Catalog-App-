@@ -1,114 +1,113 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Seed Catalog App – Figma Design</title>
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Complete-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive-Yes-3498db?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Built%20with-Figma-e44d26?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+<br/>
 
-    body {
-      font-family: 'Poppins', sans-serif;
-      background: linear-gradient(135deg, #f0f8f5, #e0f7e0);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      padding: 20px;
-    }
+<h1 align="center">🌱 Seed Catalog App – Figma Design Viewer</h1>
 
-    .container {
-      background: rgba(255, 255, 255, 0.85);
-      backdrop-filter: blur(10px);
-      border-radius: 20px;
-      padding: 30px;
-      max-width: 960px;
-      width: 100%;
-      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
-      text-align: center;
-    }
+<p align="center">An elegant and interactive embed of a <b>Seed Catalog UI/UX</b> project designed in Figma, wrapped in a modern, glassmorphism web layout.</p>
 
-    h1 {
-      font-size: 2.2rem;
-      color: #2e7d32;
-      margin-bottom: 10px;
-    }
+---
 
-    p {
-      color: #555;
-      font-size: 1rem;
-      margin-bottom: 25px;
-    }
+## 🌍 Live Demo
 
-    iframe {
-      width: 100%;
-      height: 500px;
-      border: none;
-      border-radius: 15px;
-      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
-    }
+> 💻 [Click here to view the Live Site](https://yourusername.github.io/seed-catalog-figma-viewer/)
 
-    .buttons {
-      margin-top: 20px;
-    }
+---
 
-    button {
-      background-color: #43a047;
-      color: #fff;
-      border: none;
-      padding: 12px 20px;
-      font-size: 1rem;
-      border-radius: 8px;
-      cursor: pointer;
-      transition: background-color 0.3s ease;
-    }
+## 🖼️ Preview Screenshot
 
-    button:hover {
-      background-color: #388e3c;
-    }
+<p align="center">
+  <img src="https://your-screenshot-link.png" alt="App Screenshot" width="800"/>
+</p>
 
-    @media (max-width: 600px) {
-      iframe {
-        height: 400px;
-      }
+---
 
-      h1 {
-        font-size: 1.5rem;
-      }
-    }
-  </style>
-</head>
-<body>
+## 🔧 Tech Stack
 
-  <div class="container">
-    <h1>🌱 Seed Catalog App Design</h1>
-    <p>Figma file preview embedded below. Click the button to view full version.</p>
+| Tech            | Description                                     |
+|-----------------|-------------------------------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white) | Markup structure |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)   | Custom styling with glassmorphism |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black) | For interactive button logic |
+| ![Figma](https://img.shields.io/badge/Figma-0acf83?style=flat&logo=figma&logoColor=white) | Embedded prototype |
 
-    <!-- Embedded Figma Design (View Mode) -->
-    <iframe
-      src="https://embed.figma.com/design/UIvrGbUShsDsdrEjZyoB67/Seed-Catalog-App?node-id=0-1&embed-host=share"
-      allowfullscreen>
-    </iframe>
+---
 
-    <div class="buttons">
-      <button onclick="openInNewTab()">🔗 Open Full Design</button>
-    </div>
-  </div>
+## 🎯 Features
 
-  <script>
-    function openInNewTab() {
-      const figmaURL = "https://www.figma.com/design/UIvrGbUShsDsdrEjZyoB67/Seed-Catalog-App?node-id=0-1";
-      window.open(figmaURL, "_blank");
-    }
-  </script>
+- 🌿 **Glassmorphism UI** for soft, clean design
+- 📐 **Figma Design Embed** (View-Only Mode)
+- 📱 **Responsive** and works on all screen sizes
+- 🔗 **One-Click Open Full Figma File**
+- 🚫 No login required (as long as Figma file is public)
 
-</body>
-</html>
+---
+
+## 📂 File Structure
+
+```bash
+📁 seed-catalog-figma-viewer/
+├── index.html          # Main HTML file with embed
+├── README.md           # Project documentation (this file)
+├── assets/             # Folder for screenshots/images (optional)
+└── style.css           # (If using external CSS)
+```
+
+---
+
+## ✍️ How to Use
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/seed-catalog-figma-viewer.git
+   ```
+
+2. **Open index.html in browser**
+
+3. **To replace the Figma file:**
+   - Go to [Figma](https://figma.com)
+   - Click `Share > Copy embed code`
+   - Replace the `src=` value in the iframe in `index.html`
+
+---
+
+## 🧠 Design Credits
+
+- 🎨 Designed using **Figma**
+- 🌱 Concept: Shopping UI for seeds & gardening
+- 💡 Inspired by modern UI trends
+
+---
+
+## 👤 Author
+
+| 👤 Shashank HB |
+|----------------|
+| 📧 shashankhb@email.com |
+| 🌐 [Portfolio](https://your-portfolio-link.com) |
+| 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) |
+| 🐱 [GitHub](https://github.com/yourusername) |
+
+---
+
+## 🤝 Contributing
+
+Have suggestions or want to improve this? PRs are welcome!  
+Make sure to ⭐️ the repo if you found it useful.
+
+---
+
+## 📜 License
+
+This project is under the [MIT License](LICENSE).
+
+---
+
+<p align="center">
+  Made with ❤️ by <b>Shashank HB</b>
+</p>
