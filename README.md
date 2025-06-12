@@ -86,7 +86,7 @@
 
 ## 👤 Author
 
-| 👤 Shashank HB |
+| 👤 Sai Shashank |
 |----------------|
 | 📧 shashankhb@email.com |
 | 🌐 [Portfolio](https://your-portfolio-link.com) |
