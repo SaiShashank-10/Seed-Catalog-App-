@@ -22,7 +22,7 @@
 ## 🖼️ Preview Screenshot
 
 <p align="center">
-  <img src="https://your-screenshot-link.png" alt="App Screenshot" width="800"/>
+  <img src="./Screenshot 2025-07-06 160614.png" alt="App Screenshot" width="800"/>
 </p>
 
 ---
